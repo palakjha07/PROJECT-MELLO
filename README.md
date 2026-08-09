@@ -24,7 +24,7 @@ MELLO connects users directly with independent brick-and-mortar retailers across
 * **Global Scale & Multi-Language Support:** Localized language frameworks allowing independent shop owners anywhere in the world to onboard effortlessly.
 
 ### 👥 Meet the Team (1st-Year CSE & Cybersecurity Students)
-* **Gargi** — Team mate 1 (CSE + Cybersecurity)
+* **Gargi** — Member (CSE + Cybersecurity)
 * **Palak** — Member (CSE + Cybersecurity)
 * **Anshika** — Member (CSE + Cybersecurity)
 * **Kavya** — Member (Core CSE)
