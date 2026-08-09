@@ -28,5 +28,5 @@ MELLO connects users directly with independent brick-and-mortar retailers across
 * **Palak** — Member (CSE + Cybersecurity)
 * **Anshika** — Member (CSE + Cybersecurity)
 * **Kavya** — Member (Core CSE)
-*
+
 
